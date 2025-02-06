@@ -1,5 +1,5 @@
 @import "tailwindcss";
 
-::selection{
+::selection {
   color: rgb(232, 145, 47);
 }
