@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import Card from "./Card";
+import Card from "./card";
 
 function Foreground() {
   
@@ -7,19 +7,19 @@ function Foreground() {
 
   const data = [
     {
-      desc: "lorem ipsum dolor sit amet consectetur adispisicing.",
+      desc: "Basic React Project.",
       filesize: ".9mb",
       close: true,
       tag: { isOpen: true, tagTitle: "Download Now", tagColor: "green" },
     },
     {
-      desc: "lorem ipsum dolor sit amet consectetur adispisicing.",
+      desc: "Inspiration Sheriyans Coding School",
       filesize: ".9mb",
       close: true,
       tag: { isOpen: true, tagTitle: "Download Now", tagColor: "blue" },
     },
     {
-      desc: "lorem ipsum dolor sit amet consectetur adispisicing.",
+      desc: "Cool Hovering Effect",
       filesize: ".9mb",
       close: true,
       tag: { isOpen: true, tagTitle: "Upload3t", tagColor: "green" },
